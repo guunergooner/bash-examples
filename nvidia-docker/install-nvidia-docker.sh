@@ -67,7 +67,7 @@ EOF
     "overlay2.override_kernel_check=true"
   ],
   "insecure-registries": [
-    "harbor.rokid-inc.com"
+    "harbor.com"
   ],
   "experimental": true,
   "default-ulimits": {
